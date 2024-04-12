@@ -1,0 +1,14 @@
+{
+    "name": "Knowsmore",
+    "description": "Add a predictive search modal to the front end of the site", 
+    "version": "1.0.5",
+    "author": "James Lancaster",
+    "dependencies": [
+      "edison"
+    ],
+    "versionnotes": {
+      "1.0.5": "Added QOL search items",
+      "1.0": "Initial release."
+    },
+    "autoupdate": true
+  }
